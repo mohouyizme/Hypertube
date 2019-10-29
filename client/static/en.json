@@ -1,0 +1,134 @@
+{
+    "or": "or",
+    "email": "E-mail",
+    "avatar": "Avatar",
+    "username": "Username",
+    "password": "Password",
+    "lastname": "Last name",
+    "firstname": "First name",
+    "confpassword": "Confirm Password",
+    "defaultLanguage": "Default Language",
+    "buttons": {
+        "play": "Play",
+        "send": "Send",
+        "save": "Save",
+        "login": "Login",
+        "reply": "Reply",
+        "cancel": "Cancel",
+        "signup": "Sign Up",
+        "signin": "Sign In",
+        "register": "Register",
+        "download": "Download",
+        "comment": "Add comment",
+        "forgot": "I forgot my password"
+    },
+    "genres": {
+        "war": "war",
+        "sport": "sport",
+        "crime": "crime",
+        "music": "music",
+        "drama": "drama",
+        "comedy": "comedy",
+        "family": "family",
+        "action": "action",
+        "horror": "horror",
+        "sci-fi": "sci fi",
+        "sci fi": "sci fi",
+        "history": "history",
+        "fantasy": "fantasy",
+        "western": "western",
+        "mystery": "mystery",
+        "popular": "popular",
+        "romance": "romance",
+        "thriller": "thriller",
+        "biography": "biography",
+        "adventure": "adventure",
+        "animation": "animation",
+        "documentary": "documentary"
+    },
+    "filters": {
+        "Year": "Year",
+        "Title": "Title",
+        "Date added": "Date added",
+        "Popularity": "Popularity"
+    },
+    "rules": {
+        "required": "This field is required",
+        "name": {
+            "valid": "Name can contain only letters and valid separators",
+            "len": "Name must be at least 3 characters long"
+        },
+        "username": {
+            "valid": "Username can contain only letters, numbers, _ and - characters",
+            "len": "Username must be between 5 and 30 characters long"
+        },
+        "password": {
+            "valid": "Password must contain at least one uppercase, one lowercase, one number and one special char",
+            "len": "Password must be at least 8 characters long",
+            "match": "Passwords must match"
+        },
+        "email": {
+            "valid": "E-mail must be valid"
+        },
+        "avatar": {
+            "ext": "Must be a JPEG or PNG file",
+            "size": "Image must be less than 4 MB",
+            "empty": "File is empty"
+        }
+    },
+    "api": {
+        "login": {
+            "verified": "User not verified",
+            "pass": "Wrong password",
+            "user": "Username doesn't exist"
+        },
+        "register": {
+            "email": "Email already exists",
+            "username": "Username already exists",
+            "user": "User already exists",
+            "img": "File is not an image",
+            "success": "User registred succesfully ! please verify your account."
+        },
+        "forgot": {
+            "email": "Email Doesn't exist",
+            "success": "We've sent you an e-mail with recovery steps"
+        }
+    },
+    "edit": {
+        "information": "Informations",
+        "cur": "Current password",
+        "new": "New password",
+        "conf": "Confirm new password",
+        "fail": "Something went wrong, please try again",
+        "success": "Your profile has been updated successfuly"
+    },
+    "tooltip": {
+        "search": "Search",
+        "clear": "Clear Search",
+        "filter": "Filters",
+        "profile": "Profile",
+        "logout": "Logout",
+        "edit": "Edit profile"
+    },
+    "title": {
+        "watched": "History",
+        "register": "Join Us",
+        "like": "Movie liked",
+        "comments": "Comments",
+        "login": "Welcome Back",
+        "liked": "Liked Movies",
+        "unlike": "Movie unliked",
+        "forgot": "Recover password"
+    },
+    "cast": {
+        "actors": "Actors",
+        "director": "Director"
+    },
+    "error": {
+        "image": "Image is not valid",
+        "link": "Image link is broken",
+        "comment": "Can't load comments",
+        "complete": "You must complete your profile",
+        "torrent": "There is a problem with the torrent"
+    }
+}

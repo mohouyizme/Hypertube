@@ -1,0 +1,134 @@
+{
+    "or": "ou",
+    "email": "E-mail",
+    "lastname": "Nom",
+    "avatar": "Avatar",
+    "username": "Pseudo",
+    "firstname": "Prénom",
+    "password": "Mot de passe",
+    "confpassword": "Confirmez mot de passe",
+    "buttons": {
+        "play": "Jouer",
+        "send": "Envoyer",
+        "cancel": "Annuler",
+        "login": "Connexion",
+        "save": "Sauvegarder",
+        "signin": "Connexion",
+        "reply": "Repondre",
+        "signup": "Inscription",
+        "register": "Incription",
+        "download": "Telecharger",
+        "forgot": "Mot de passe oublié",
+        "comment": "Ajouter un commentaire"
+    },
+    "genres": {
+        "war": "Guerre",
+        "crime": "Crime",
+        "sport": "Sport",
+        "drama": "Drame",
+        "action": "Action",
+        "music": "Musique",
+        "horror": "Horreur",
+        "comedy": "Comédie",
+        "family": "Famille",
+        "western": "Western",
+        "mystery": "Mystère",
+        "history": "Histoire",
+        "popular": "Populaire",
+        "thriller": "Thriller",
+        "romance": "Romantique",
+        "adventure": "Aventure",
+        "fantasy": "Fantastique",
+        "animation": "Animation",
+        "biography": "Biographie",
+        "sci-fi": "Science fiction",
+        "sci fi": "Science fiction",
+        "documentary": "Documentaire"
+    },
+    "filters": {
+        "Year": "Année",
+        "Title": "Titre",
+        "Popularity": "Popularité",
+        "Date added": "Date d'ajout"
+    },
+    "defaultLanguage": "Langage par défaut",
+    "rules": {
+        "required": "Ce champ doit etre rempli",
+        "name": {
+            "len": "Le nom doit contenir 3 characteres au minimum",
+            "valid": "Le nom ne doit contenir que des lettres ou des separateurs valide"
+        },
+        "username": {
+            "len": "Le pseudo doit contenir entre 3 et 5 characteres",
+            "valid": "Username can contain only letters, numbers, _ and - characters"
+        },
+        "password": {
+            "match": "Les mots de passe doivent etre identique",
+            "len": "Le mot de passe doit contenir 8 characteres au minimum",
+            "valid": "Le mot de passe doit contenir un miniscule, un majiscule, un nombre et un charactere special"
+        },
+        "email": {
+            "valid": "l'e-mail doit etre valide"
+        },
+        "avatar": {
+            "empty": "Le fichier est vide",
+            "size": "L'image ne doit pas depasser 4 MB",
+            "ext": "L'image doit etre format JPEG ou PNG"
+        }
+    },
+    "api": {
+        "login": {
+            "user": "Le pseudo n'existe pas",
+            "pass": "Le mot de passe est incorecte",
+            "verified": "Ce compte n'est pas verifié"
+        },
+        "register": {
+            "user": "Ce compte existe deja",
+            "email": "Cet email existe deja",
+            "username": "Ce pseudo existe deja",
+            "img": "Ce ficher n'est pas une image",
+            "success": "Votre compte est crée, veuillez verifier votre email."
+        },
+        "forgot": {
+            "email": "L'email n'existe pas",
+            "success": "Nous vous avons envoyé un e-mail avec les étapes de récupération"
+        }
+    },
+    "edit": {
+        "information": "Informations",
+        "cur": "Mot de passe actuel",
+        "new": "Nouveau mot de passe",
+        "conf": "Confirmez le mot de passe",
+        "success": "Votre profile a bien été modifié",
+        "fail": "Veuillez ressayer avec des informations valide"
+    },
+    "tooltip": {
+        "filter": "Filtres",
+        "profile": "Profile",
+        "search": "Recherche",
+        "clear": "Effacer la recherche",
+        "logout": "Se déconnecter",
+        "edit": "Éditer profile"
+    },
+    "title": {
+        "login": "Bon Retour",
+        "liked": "Films aimés",
+        "watched": "Historique",
+        "register": "Rejoignez-nous",
+        "forgot": "Récupérer mot de passe",
+        "like": "Film aimé",
+        "unlike": "Film non aimé",
+        "comments": "Commentaires"
+    },
+    "cast": {
+        "actors": "Acteurs",
+        "director": "Réalisateur"
+    },
+    "error": {
+        "comment": "Impossible de charger les commentaires",
+        "link": "Le lien de l'image n'est pas valide",
+        "image": "L'image n'est pas valide",
+        "complete": "Vous devez compléter votre profil",
+        "torrent": "Il y a un problème avec le torrent"
+    }
+}
